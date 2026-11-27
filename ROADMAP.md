@@ -14,18 +14,18 @@
 - [ ] Complete Week 1 documentation
 
 ### Week 2 — Data Modeling
-- [ ] Define fictional business entities
-- [ ] Design order and customer data structures
-- [ ] Generate realistic synthetic datasets
-- [ ] Document business rules
+- [x] Define fictional business entities ([Week 2 data model](docs/DATA_MODEL.md))
+- [x] Design order and customer data structures ([record structures](docs/DATA_MODEL.md#record-structures))
+- [x] Generate realistic synthetic datasets ([synthetic dataset](docs/DATA_MODEL.md#synthetic-dataset))
+- [x] Document business rules ([business rules](docs/DATA_MODEL.md#business-rules))
 
 ## Phase 2: Data Infrastructure
 
 ### Week 3 — SQL Fundamentals
-- [ ] Introduce SQLite
-- [ ] Create database tables
-- [ ] Import synthetic data
-- [ ] Practice SQL queries
+- [x] Introduce SQLite ([terminal walkthrough](docs/SQLITE_WALKTHROUGH.md))
+- [x] Create database tables
+- [x] Import synthetic data
+- [x] Practice SQL queries
 
 ### Week 4 — Data Quality
 - [ ] Build data validation checks
